@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Mukesh Thakur: Its my First Blog on Github
 ---
